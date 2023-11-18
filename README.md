@@ -1,1 +1,1 @@
-# selfbot-multitoken
+# speed-no-grab
